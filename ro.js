@@ -49,7 +49,7 @@ var compare = function(choice1, choice2){
 			
 		}
 		else if (choice2 === "paper") {
-			return "scissors wins. Cool bro! You won! party time ";
+			return "scissors wins. Cool bro! You won! paparty time ";
 			
 		}
 	}
